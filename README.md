@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To create project with create react app, you can run:
+
+### `npx create-reatc-app my-app`
+ref: https://github.com/facebook/create-react-app
+
 In the project directory, you can run:
 
 ### `npm start`
